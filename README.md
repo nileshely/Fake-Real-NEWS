@@ -1,4 +1,4 @@
-# Fake Real NEWS
+# Fake & Real NEWS
 
 **Description:**
 
